@@ -1,7 +1,7 @@
 # Programming-With-Love-Profile
 :heart: { 为爱发电 }  技术爱好者组织简介
 
-在Programming With Love ( 为爱发电 ) 的朋友们，是来自各个岗位、各型各色、渴望追求技术高峰的平凡者们。
+在Programming With Love ( 为爱发电 ) 的朋友们，是来自各个地区、各个岗位，渴望技术、追求技术的平凡者们。
 
 ## 为什么存在？
 
