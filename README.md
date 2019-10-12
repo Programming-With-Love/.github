@@ -60,9 +60,11 @@
 
 目前我们包括以下几个`Teams`：
 
-![屏幕快照 2019-10-11 下午3.12.12.png](https://pic.stackoverflow.wiki/uploadImages/c4045f72-497b-4b2c-986b-fabdcf4d9cf3.png)
+![屏幕快照 2019-10-12 下午12.10.59.png](https://pic.stackoverflow.wiki/uploadImages/43f30e9c-e92e-486b-8bf3-76d0f1b6c517.png)
 
 * 优秀技能大师：在GitHub中拥有杰出表现的大佬。 (其中，请无视~~AdlerED~~这个ID，因为我发起这个Team自己无法退出)
+
+* 网络安全专家：专业方向包括但不限于：系统渗透、逆向分析、WEB安全、社会工程学。
 
 * 开发工程师：在GitHub中小有成就的成员，且研究方向包括但不限于Golang、Java、PHP、Python、Android、Swift、易语言。
 
