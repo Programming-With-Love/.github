@@ -46,7 +46,7 @@
 
 :star: [在这里留下你的GitHub ID](https://hacpai.com/article/1570552518797)，我们会邀请你加入**为爱发电**组织。你需要严格遵守组织的规则。
 
-同时，你还可以发送邮件至**hui426509@gmail.com**。
+或者，你还可以发送邮件至**hui426509@gmail.com**，提供你的GitHub ID。
 
 加入后，还请进入**People**标签，找到你自己，将`🔐Private`点击修改为`Public`，这样你的名片中就可以显示组织头像了。
 
