@@ -44,9 +44,12 @@
 
 ## 加入我们
 
-:star: [在这里留下你的GitHub ID](https://hacpai.com/article/1570552518797)，我们会邀请你加入**为爱发电**组织。你需要严格遵守组织的规则。
+:star: 如果你赞同并愿意严格遵守**为爱发电**组织的守则，欢迎你加入我们的组织：
 
-或者，你还可以发送邮件至**AdlerED@outlook.com**，提供你的GitHub ID。
+1. 请[先在这里注册一个账号](https://hacpai.com/register?r=AdlerED)
+2. 然后[在这里评论留下你的GitHub ID](https://hacpai.com/article/1570552518797)
+
+我们会在24小时内邀请你加入**为爱发电**组织。
 
 加入后，还请进入**People**标签，找到你自己，将`🔐Private`点击修改为`Public`，这样你的名片中就可以显示组织头像了。
 
