@@ -47,7 +47,7 @@
 :star: 如果你赞同并愿意严格遵守**为爱发电**组织的守则，欢迎你加入我们的组织：
 
 1. 请[先在这里注册一个账号](https://hacpai.com/register?r=AdlerED)
-2. 然后[在这里评论留下你的GitHub ID](https://hacpai.com/article/1570552518797)
+2. 然后[在这里评论留下你的GitHub ID](https://hacpai.com/article/1570552518797?r=AdlerED)
 
 我们会在24小时内邀请你加入**为爱发电**组织。
 
