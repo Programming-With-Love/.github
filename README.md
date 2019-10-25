@@ -22,6 +22,12 @@
 
 ### 成员席
 
+|:construction_worker:|:construction_worker:|:construction_worker:|:construction_worker:|:construction_worker:|:construction_worker:|
+|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
+|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/32894108?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/29498384?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/38367204?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/30405643?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/34887700?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/22362346?v=4'>|
+|[@2501224066](https://github.com/2501224066)|[@404NotFoundx](https://github.com/404NotFoundx)|[@AlgerFan](https://github.com/AlgerFan)|[@AngelKitty](https://github.com/AngelKitty)|[@aturX](https://github.com/aturX)|[@bayllech](https://github.com/bayllech)|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/30694270?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/51190041?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/31475416?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/37653356?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/42088872?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/19605465?v=4'>|
+|[@BoynChan](https://github.com/BoynChan)|[@btlinux](https://github.com/btlinux)|[@budaLi](https://github.com/budaLi)|[@ChaosSan](https://github.com/ChaosSan)|[@ChungZH](https://github.com/ChungZH)|[@churlee](https://github.com/churlee)|
 
 
 ## 我们欢迎
