@@ -4,9 +4,9 @@
 
 ### 组织结构 && 所有成员
 
-##### 以下为“用爱发电”组织成员名单（最后更新：2019-10-25）
+##### 以下为“用爱发电”组织成员名单（最后更新：2019-10-26）
 
-#### [这么大的用户墙，是怎么生成的？](https://github.com/AdlerED/GitHubUsersWallOnREADME)
+#### [这么大的用户墙，是如何生成的？](https://github.com/AdlerED/GitHubUsersWallOnREADME)
 
 ### 大佬席
 
