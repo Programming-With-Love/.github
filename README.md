@@ -6,6 +6,8 @@
 
 ##### 以下为“用爱发电”组织成员名单（最后更新：2019-10-25）
 
+#### [这么大的用户墙，是怎么生成的？](https://github.com/AdlerED/GitHubUsersWallOnREADME)
+
 ### 大佬席
 
 |:construction_worker:|:construction_worker:|
