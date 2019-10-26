@@ -59,6 +59,8 @@
 |<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/30741977?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/11469406?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/11310504?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/18900961?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/32983588?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/46447352?v=4'>|
 |[@ZachNeverGiveup](https://github.com/ZachNeverGiveup)|[@zhd173](https://github.com/zhd173)|[@zidoshare](https://github.com/zidoshare)|[@zkl2333](https://github.com/zkl2333)|[@zkqiang](https://github.com/zkqiang)|[@ZLuoYongShou](https://github.com/ZLuoYongShou)|
 
+##### 如有遗漏，请提交至Issue :)
+
 ## 我们欢迎
 
 * 萌新入门、**虚心**求学、**在提问前做好功课**的。~~伸手党~~
