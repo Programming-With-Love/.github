@@ -4,7 +4,7 @@
 
 ### 组织结构 && 所有成员
 
-##### 以下为“用爱发电”组织成员名单（最后更新：2019-10-26）
+##### 以下为“用爱发电”组织成员名单（最后更新：2019-10-28）
 
 #### [这么大的用户墙，是如何生成的？](https://github.com/AdlerED/GitHubUsersWallOnREADME)
 
@@ -58,6 +58,8 @@
 |[@yanfeng1012](https://github.com/yanfeng1012)|[@yaoqiwood](https://github.com/yaoqiwood)|[@YSGStudyHards](https://github.com/YSGStudyHards)|[@YUbuntu0109](https://github.com/YUbuntu0109)|[@yyong119](https://github.com/yyong119)|[@ZacharyChang](https://github.com/ZacharyChang)|
 |<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/30741977?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/11469406?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/11310504?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/18900961?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/32983588?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/46447352?v=4'>|
 |[@ZachNeverGiveup](https://github.com/ZachNeverGiveup)|[@zhd173](https://github.com/zhd173)|[@zidoshare](https://github.com/zidoshare)|[@zkl2333](https://github.com/zkl2333)|[@zkqiang](https://github.com/zkqiang)|[@ZLuoYongShou](https://github.com/ZLuoYongShou)|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/21301288?v=4'>|
+|[@ruibaby](https://github.com/ruibaby)|
 
 ##### 如有遗漏，请提交至Issue :)
 
