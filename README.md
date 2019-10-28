@@ -58,8 +58,8 @@
 |[@yanfeng1012](https://github.com/yanfeng1012)|[@yaoqiwood](https://github.com/yaoqiwood)|[@YSGStudyHards](https://github.com/YSGStudyHards)|[@YUbuntu0109](https://github.com/YUbuntu0109)|[@yyong119](https://github.com/yyong119)|[@ZacharyChang](https://github.com/ZacharyChang)|
 |<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/30741977?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/11469406?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/11310504?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/18900961?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/32983588?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/46447352?v=4'>|
 |[@ZachNeverGiveup](https://github.com/ZachNeverGiveup)|[@zhd173](https://github.com/zhd173)|[@zidoshare](https://github.com/zidoshare)|[@zkl2333](https://github.com/zkl2333)|[@zkqiang](https://github.com/zkqiang)|[@ZLuoYongShou](https://github.com/ZLuoYongShou)|
-|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/21301288?v=4'>|
-|[@ruibaby](https://github.com/ruibaby)|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/21301288?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/17877010?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/57073097?v=4'>|
+|[@ruibaby](https://github.com/ruibaby)|[@zjs1224522500](https://github.com/zjs1224522500)|[@Zachary9321](https://github.com/Zachary9321)|
 
 ##### 如有遗漏，请提交至Issue :)
 
