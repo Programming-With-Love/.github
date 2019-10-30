@@ -1,9 +1,4 @@
----
-name: Tracking issue
-about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
-labels: tracking issue, needs triage
-assignees: octocat, octo-org/octo-team
----
+↑ **请将上方标题修改为 “头像墙加入归档”** ↑  
 
-hello
+### 您的GitHub主页地址：
+> https://github.com/{用户名}
