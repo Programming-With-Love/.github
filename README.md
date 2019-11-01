@@ -60,8 +60,8 @@
 |[@ZachNeverGiveup](https://github.com/ZachNeverGiveup)|[@zhd173](https://github.com/zhd173)|[@zidoshare](https://github.com/zidoshare)|[@zkl2333](https://github.com/zkl2333)|[@zkqiang](https://github.com/zkqiang)|[@ZLuoYongShou](https://github.com/ZLuoYongShou)|
 |<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/21301288?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/17877010?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/57073097?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/24489991?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/24505361?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/38653369?v=4'>|
 |[@ruibaby](https://github.com/ruibaby)|[@zjs1224522500](https://github.com/zjs1224522500)|[@Zachary9321](https://github.com/Zachary9321)|[@WithLei](https://github.com/WithLei)|[@Kaiux](https://github.com/Kaiux)|[@Suvern](https://github.com/Suvern)|
-|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/15374001?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/24767899?v=4'>|
-|[@flashdoggy](https://github.com/flashdoggy)|[@xhaoxiong](https://github.com/xhaoxiong)|
+|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/15374001?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/24767899?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/32869976?v=4'>|
+|[@flashdoggy](https://github.com/flashdoggy)|[@xhaoxiong](https://github.com/xhaoxiong)|[@IwasawaMasami](https://github.com/IwasawaMasami)|
 
 ##### 如有遗漏，请提交至Issue :)
 
