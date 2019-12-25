@@ -4,16 +4,16 @@
 
 ### 组织结构 && 所有成员
 
-##### 以下为“用爱发电”组织成员名单（最后更新：2019-12-12）
+##### 以下为“用爱发电”组织成员名单（最后更新：2019-12-25）
 
 #### [这么大的用户墙，是如何生成的？](https://github.com/AdlerED/GitHubUsersWallOnREADME)
 
 ### 大佬席
 
-|:construction_worker:|:construction_worker:|
-|:-------------------:|:-------------------:|
-|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/873584?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/5080126?v=4'>|
-|[@88250](https://github.com/88250)|[@wizardforcel](https://github.com/wizardforcel)|
+|:construction_worker:|:construction_worker:|:construction_worker:|:construction_worker:|
+|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/873584?v=4'>|:heart:|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/970828?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/5080126?v=4'>|
+|[@88250](https://github.com/88250)||[@Vanessa219](https://github.com/Vanessa219)|[@wizardforcel](https://github.com/wizardforcel)|
 
 ### 总理事席
 
