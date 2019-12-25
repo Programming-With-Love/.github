@@ -10,10 +10,10 @@
 
 ### 大佬席
 
-|:construction_worker:||:construction_worker:|:construction_worker:|
-|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
-|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/873584?v=4'>|:heart:|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/970828?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/5080126?v=4'>|
-|[@88250](https://github.com/88250)||[@Vanessa219](https://github.com/Vanessa219)|[@wizardforcel](https://github.com/wizardforcel)|
+|:construction_worker:|:construction_worker:|:construction_worker:|
+|:-------------------:|:-------------------:|:-------------------:|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/873584?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/970828?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/5080126?v=4'>|
+|[@88250](https://github.com/88250)|[@Vanessa219](https://github.com/Vanessa219)|[@wizardforcel](https://github.com/wizardforcel)|
 
 ### 总理事席
 
