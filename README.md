@@ -4,7 +4,7 @@
 
 ### 组织结构 && 所有成员
 
-##### 以下为“用爱发电”组织成员名单（最后更新：2019-12-25）
+##### 以下为“用爱发电”组织成员名单（最后更新：2019-12-27）
 
 #### [这么大的用户墙，是如何生成的？](https://github.com/AdlerED/GitHubUsersWallOnREADME)
 
@@ -62,8 +62,8 @@
 |[@ruibaby](https://github.com/ruibaby)|[@zjs1224522500](https://github.com/zjs1224522500)|[@Zachary9321](https://github.com/Zachary9321)|[@WithLei](https://github.com/WithLei)|[@Kaiux](https://github.com/Kaiux)|[@Suvern](https://github.com/Suvern)|
 |<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/15374001?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/24767899?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/32869976?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/24602733?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/58257943?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/19339293?v=4'>|
 |[@flashdoggy](https://github.com/flashdoggy)|[@xhaoxiong](https://github.com/xhaoxiong)|[@IwasawaMasami](https://github.com/IwasawaMasami)|[@xmyl](https://github.com/xmyl)|[@wangzh1guo](https://github.com/wangzh1guo)|[@yuechuanx](https://github.com/yuechuanx)|
-|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/35188849?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/52696481?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/26790619?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/20016835?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/31876031?v=4'>|
-|[@jiangwenfan](https://github.com/jiangwenfan)|[@JellyfishMIX](https://github.com/JellyfishMIX)|[@Langery](https://github.com/Langery)|[@algobot76](https://github.com/algobot76)|[@Hitsuki9](https://github.com/Hitsuki9)|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/35188849?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/52696481?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/26790619?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/20016835?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/31876031?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/7439636?v=4'>|
+|[@jiangwenfan](https://github.com/jiangwenfan)|[@JellyfishMIX](https://github.com/JellyfishMIX)|[@Langery](https://github.com/Langery)|[@algobot76](https://github.com/algobot76)|[@Hitsuki9](https://github.com/Hitsuki9)|[@wikix](https://github.com/wikix)|
 
 ##### 如有遗漏，请提交至Issue :)
 
