@@ -4,7 +4,7 @@
 
 ### 组织结构 && 所有成员
 
-##### 以下为“用爱发电”组织成员名单（最后更新：2019-12-27）
+##### 以下为“用爱发电”组织成员名单（最后更新：2019-12-29）
 
 #### [这么大的用户墙，是如何生成的？](https://github.com/AdlerED/GitHubUsersWallOnREADME)
 
@@ -64,6 +64,8 @@
 |[@flashdoggy](https://github.com/flashdoggy)|[@xhaoxiong](https://github.com/xhaoxiong)|[@IwasawaMasami](https://github.com/IwasawaMasami)|[@xmyl](https://github.com/xmyl)|[@wangzh1guo](https://github.com/wangzh1guo)|[@yuechuanx](https://github.com/yuechuanx)|
 |<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/35188849?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/52696481?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/26790619?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/20016835?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/31876031?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/7439636?v=4'>|
 |[@jiangwenfan](https://github.com/jiangwenfan)|[@JellyfishMIX](https://github.com/JellyfishMIX)|[@Langery](https://github.com/Langery)|[@algobot76](https://github.com/algobot76)|[@Hitsuki9](https://github.com/Hitsuki9)|[@wikix](https://github.com/wikix)|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/29348041?v=4'>|
+|[@littlecurl](https://github.com/littlecurl)|
 
 ##### 如有遗漏，请提交至Issue :)
 
