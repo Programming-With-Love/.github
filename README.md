@@ -4,7 +4,7 @@
 
 ### 组织结构 && 所有成员
 
-##### 以下为“用爱发电”组织成员名单（最后更新：2020-01-11）
+##### 以下为“用爱发电”组织成员名单（最后更新：2020-01-18）
 
 #### [这么大的用户墙，是如何生成的？](https://github.com/AdlerED/GitHubUsersWallOnREADME)
 
@@ -70,10 +70,10 @@
 |[@imperio-wxm](https://github.com/imperio-wxm)|[@JianJieMing](https://github.com/JianJieMing)|[@Keyong-bio](https://github.com/Keyong-bio)|[@mufengcoding](https://github.com/mufengcoding)|[@proxygit](https://github.com/proxygit)|
 |<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/17349950?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/22972345?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/4202848?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/26699522?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/8346727?v=4'>|
 |[@shmilwdc](https://github.com/shmilwdc)|[@T-Dou](https://github.com/T-Dou)|[@TopGrd](https://github.com/TopGrd)|[@xuwujing](https://github.com/xuwujing)|[@ZacharyChang](https://github.com/ZacharyChang)|
-|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/46447352?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/38653369?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/19339293?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/7439636?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/29348041?v=4'>|
+|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/46447352?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/38653369?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/19339293?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/7439636?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/29348041?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/10429917?v=4'>|
 |[@ZLuoYongShou](https://github.com/ZLuoYongShou)|[@Suvern](https://github.com/Suvern)|[@yuechuanx](https://github.com/yuechuanx)|[@wikix](https://github.com/wikix)|[@littlecurl](https://github.com/littlecurl)|
 |<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/37762337?v=4'>|
-|[@wangming2674](https://github.com/wangming2674)|
+|[@wangming2674](https://github.com/wangming2674)|[@xkcoding](https://github.com/xkcoding)|
 
 ##### 如有遗漏，请提交至Issue :)
 
