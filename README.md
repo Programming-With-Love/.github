@@ -72,8 +72,8 @@
 |[@shmilwdc](https://github.com/shmilwdc)|[@T-Dou](https://github.com/T-Dou)|[@TopGrd](https://github.com/TopGrd)|[@xuwujing](https://github.com/xuwujing)|[@ZacharyChang](https://github.com/ZacharyChang)|
 |<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/46447352?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/38653369?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/19339293?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/7439636?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/29348041?v=4'>|
 |[@ZLuoYongShou](https://github.com/ZLuoYongShou)|[@Suvern](https://github.com/Suvern)|[@yuechuanx](https://github.com/yuechuanx)|[@wikix](https://github.com/wikix)|[@littlecurl](https://github.com/littlecurl)|
-|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/37762337?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/10429917?v=4'>|
-|[@wangming2674](https://github.com/wangming2674)|[@xkcoding](https://github.com/xkcoding)|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/37762337?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/10429917?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/10692772?v=4'>|
+|[@wangming2674](https://github.com/wangming2674)|[@xkcoding](https://github.com/xkcoding)|[@free-free](https://github.com/free-free)|
 
 ##### 如有遗漏，请提交至Issue :)
 
