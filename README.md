@@ -20,7 +20,7 @@
 |:construction_worker:|:construction_worker:|:construction_worker:|
 |:-------------------:|:-------------------:|:-------------------:|
 |<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/6754458?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/14257327?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/23192332?v=4'>|
-|[@AdlerED](https://github.com/AdlerED)|[@csfwff](https://github.com/csfwff)|[@InkDP](https://github.com/InkDP)|
+|[@adlered](https://github.com/adlered)|[@csfwff](https://github.com/csfwff)|[@InkDP](https://github.com/InkDP)|
 
 ### 成员席
 
