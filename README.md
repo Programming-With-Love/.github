@@ -2,7 +2,7 @@
 
 用爱发电 (Programming With Love) 是以开源精神为核心的GitHub组织。
 
-### “为爱发电”组织官网
+### “用爱发电”组织官网
 
 [https://programmingwithlove.stackoverflow.wiki/](https://programmingwithlove.stackoverflow.wiki/)
 
