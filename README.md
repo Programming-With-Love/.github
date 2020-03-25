@@ -79,7 +79,7 @@
 |<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/37762337?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/10429917?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/10692772?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/31023767?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/27399349?v=4'>|
 |[@wangming2674](https://github.com/wangming2674)|[@xkcoding](https://github.com/xkcoding)|[@free-free](https://github.com/free-free)|[@expoli](https://github.com/expoli)|[@GoldArowana](https://github.com/GoldArowana)|
 |<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/34295704?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/56344447?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/19323736?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/9978816?v=4'>|
-|[@Francis1024](https://github.com/Francis1024)|[@TimesChangin](https://github.com/TimesChangin)|[@mu1er](https://github.com/mu1er)|[@ghostsf](https://github.com/ghostsf)|
+|[@Francis1024](https://github.com/Francis1024)|[@bogendihong](https://github.com/bogendihong)|[@mu1er](https://github.com/mu1er)|[@ghostsf](https://github.com/ghostsf)|
 
 ##### 如有遗漏，请提交至Issue :)
 
