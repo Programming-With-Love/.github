@@ -80,6 +80,8 @@
 |[@wangming2674](https://github.com/wangming2674)|[@xkcoding](https://github.com/xkcoding)|[@free-free](https://github.com/free-free)|[@expoli](https://github.com/expoli)|[@GoldArowana](https://github.com/GoldArowana)|
 |<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/34295704?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/56344447?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/19323736?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/9978816?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/44798266?v=4'>|
 |[@Francis1024](https://github.com/Francis1024)|[@bogendihong](https://github.com/bogendihong)|[@mu1er](https://github.com/mu1er)|[@ghostsf](https://github.com/ghostsf)|[@Singularity0909](https://github.com/Singularity0909)|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/15024868?v=4'>|
+|[@hevi1991](https://github.com/hevi1991)|
 
 ##### 如有遗漏，请提交至Issue :)
 
