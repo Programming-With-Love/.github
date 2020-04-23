@@ -82,6 +82,8 @@
 |[@Francis1024](https://github.com/Francis1024)|[@bogendihong](https://github.com/bogendihong)|[@mu1er](https://github.com/mu1er)|[@ghostsf](https://github.com/ghostsf)|[@Singularity0909](https://github.com/Singularity0909)|
 |<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/15024868?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/42269246?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/63195764?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/33931153?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/38412458?v=4'>|
 |[@hevi1991](https://github.com/hevi1991)|[@TRHX](https://github.com/TRHX)|[@Kiritoooo](https://github.com/Kiritoooo)|[@sy-records](https://github.com/sy-records)|[@Higker](https://github.com/Higker)|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/23518990?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/46063668?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/29678316?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/8004501?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/18391791?v=4'>|
+|[@Daotin](https://github.com/Daotin)|[@user-yuanfei](https://github.com/user-yuanfei)|[@lizhongyue248](https://github.com/lizhongyue248)|[@airplayx](https://github.com/airplayx)|[@m9rco](https://github.com/m9rco)|
 
 
 ##### 如有遗漏，请提交至Issue :)
