@@ -86,8 +86,8 @@
 |[@Daotin](https://github.com/Daotin)|[@user-yuanfei](https://github.com/user-yuanfei)|[@lizhongyue248](https://github.com/lizhongyue248)|[@airplayx](https://github.com/airplayx)|[@m9rco](https://github.com/m9rco)|
 |<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/20486861?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/29159573?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/48912814?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/11681287?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/18193209?v=4'>|
 |[@polichan](https://github.com/polichan)|[@loveincode](https://github.com/loveincode)|[@biehaiyang](https://github.com/biehaiyang)|[@maixiaojie](https://github.com/maixiaojie)|[@xumiaodev](https://github.com/xumiaodev)|
-|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/27766600?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/10508406?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/42225052?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/30773389?v=4'>|
-|[@Joeyscat](https://github.com/Joeyscat)|[@1nfsr](https://github.com/1nfsr)|[@passerby223](https://github.com/passerby223)|[@zhangchenglin](https://github.com/zhangchenglin)|
+|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/27766600?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/10508406?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/42225052?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/30773389?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/33566006?v=4'>|
+|[@Joeyscat](https://github.com/Joeyscat)|[@1nfsr](https://github.com/1nfsr)|[@passerby223](https://github.com/passerby223)|[@zhangchenglin](https://github.com/zhangchenglin)|[@yearing1017](https://github.com/yearing1017)|
 
 ##### 如有遗漏，请提交至Issue :)
 
