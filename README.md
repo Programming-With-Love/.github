@@ -90,8 +90,8 @@
 |[@polichan](https://github.com/polichan)|[@loveincode](https://github.com/loveincode)|[@biehaiyang](https://github.com/biehaiyang)|[@maixiaojie](https://github.com/maixiaojie)|[@xumiaodev](https://github.com/xumiaodev)|
 |<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/27766600?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/10508406?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/42225052?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/30773389?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/33566006?v=4'>|
 |[@Joeyscat](https://github.com/Joeyscat)|[@1nfsr](https://github.com/1nfsr)|[@passerby223](https://github.com/passerby223)|[@zhangchenglin](https://github.com/zhangchenglin)|[@yearing1017](https://github.com/yearing1017)|
-|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/41816449?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/17940151?v=4'>|
-|[@ylsislove](https://github.com/ylsislove)|[@qierkang](https://github.com/qierkang)|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/41816449?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/17940151?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/42794622?v=4'>|
+|[@ylsislove](https://github.com/ylsislove)|[@qierkang](https://github.com/qierkang)|[@Wzb3422](https://github.com/Wzb3422)|
 
 ##### 如有遗漏，请提交至Issue :)
 
