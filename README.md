@@ -92,8 +92,8 @@
 |[@Joeyscat](https://github.com/Joeyscat)|[@1nfsr](https://github.com/1nfsr)|[@passerby223](https://github.com/passerby223)|[@zhangchenglin](https://github.com/zhangchenglin)|[@yearing1017](https://github.com/yearing1017)|
 |<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/41816449?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/17940151?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/48710804?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/13065982?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/30816833?v=4'>|
 |[@ylsislove](https://github.com/ylsislove)|[@qierkang](https://github.com/qierkang)|[@shenporka](https://github.com/shenporka)|[@Shen-Yu](https://github.com/Shen-Yu)|[@lingyu123](https://github.com/lingyu123)|
-|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/32566594?v=4'>|
-|[@viewv](https://github.com/viewv)|
+|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/32566594?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/35591732?v=4'>|
+|[@viewv](https://github.com/viewv)|[@LiuyueOvO](https://github.com/LiuyueOvO)|
 
 ##### 如有遗漏，请提交至Issue :)
 
