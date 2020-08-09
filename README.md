@@ -94,6 +94,10 @@
 |[@ylsislove](https://github.com/ylsislove)|[@qierkang](https://github.com/qierkang)|[@shenporka](https://github.com/shenporka)|[@Shen-Yu](https://github.com/Shen-Yu)|[@lingyu123](https://github.com/lingyu123)|
 |<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/32566594?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/35591732?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/22115219?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/45088633?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/13534743?v=4'>|
 |[@viewv](https://github.com/viewv)|[@AstralAngels](https://github.com/AstralAngels)|[@superleeyom](https://github.com/superleeyom)|[@ghl1024](https://github.com/ghl1024)|[@mufengcoding](https://github.com/mufengcoding)|
+|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/34374831?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/10206750?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/15909210?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/33923224?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/20677007?v=4'>|
+|[@zhangfeibiao](https://github.com/zhangfeibiao)|[@zuzy](https://github.com/zuzy)|[@LiWenGu](https://github.com/LiWenGu)|[@Gaoshengyue](https://github.com/Gaoshengyue)|[@miniLV](https://github.com/miniLV)|
+|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/30260671?v=4'>||
+|[@JonnieWayy](https://github.com/JonnieWayy)||
 
 ##### 如有遗漏，请提交至Issue :)
 
