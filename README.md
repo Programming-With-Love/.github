@@ -96,8 +96,8 @@
 |[@viewv](https://github.com/viewv)|[@AstralAngels](https://github.com/AstralAngels)|[@superleeyom](https://github.com/superleeyom)|[@ghl1024](https://github.com/ghl1024)|[@mufengcoding](https://github.com/mufengcoding)|
 |<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/34374831?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/10206750?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/15909210?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/33923224?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/20677007?v=4'>|
 |[@zhangfeibiao](https://github.com/zhangfeibiao)|[@zuzy](https://github.com/zuzy)|[@LiWenGu](https://github.com/LiWenGu)|[@Gaoshengyue](https://github.com/Gaoshengyue)|[@miniLV](https://github.com/miniLV)|
-|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/30260671?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/54590447?v=4'>|
-|[@JonnieWayy](https://github.com/JonnieWayy)|[@IronmanJay](https://github.com/IronmanJay)|
+|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/30260671?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/54590447?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/22992947?v=4'>|
+|[@JonnieWayy](https://github.com/JonnieWayy)|[@IronmanJay](https://github.com/IronmanJay)|[@MuenYu](https://github.com/MuenYu)|
 
 ##### 如有遗漏，请提交至Issue :)
 
