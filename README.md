@@ -98,8 +98,8 @@
 |[@zhangfeibiao](https://github.com/zhangfeibiao)|[@zuzy](https://github.com/zuzy)|[@LiWenGu](https://github.com/LiWenGu)|[@Gaoshengyue](https://github.com/Gaoshengyue)|[@miniLV](https://github.com/miniLV)|
 |<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/30260671?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/54590447?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/22992947?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/33645012?v=4'>|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/56471245?v=4'>|
 |[@JonnieWayy](https://github.com/JonnieWayy)|[@IronmanJay](https://github.com/IronmanJay)|[@MuenYu](https://github.com/MuenYu)|[@FuShaoLei](https://github.com/FuShaoLei)|[@iHDJ](https://github.com/iHDJ)|
-|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/12499004?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/54064860?v=4'>|
-|[@zhouqimark](https://github.com/zhouqimark)|[@gorgeousdays](https://github.com/gorgeousdays)|
+|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/12499004?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/54064860?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/41406557?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/15273630?v=4'>|
+|[@zhouqimark](https://github.com/zhouqimark)|[@gorgeousdays](https://github.com/gorgeousdays)|[@gakkiyomi](https://github.com/gakkiyomi)|[@Hunlongyu](https://github.com/Hunlongyu)|
 
 ##### 如有遗漏，请提交至Issue :)
 
