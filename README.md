@@ -210,7 +210,7 @@
 
 ![屏幕快照 2019-10-09 下午4.44.10.png](https://pic.stackoverflow.wiki/uploadImages/ef3cedc9-da38-496d-a9c2-a5fe3b6fbbb1.png)
 
-3. 第一行输入你的项目名，第二行输入组织名 (Programming-With-Love)，点击 "I understant" 即可：
+3. 第一行输入你的项目名，第二行输入组织名 (Programming-With-Love)，点击 "I understand" 即可：
 
 ![屏幕快照 2019-10-09 下午4.44.49.png](https://pic.stackoverflow.wiki/uploadImages/6ab71ca9-fc9b-4e0e-ab04-ef69256a5797.png)
 
@@ -224,6 +224,6 @@
 
 ![屏幕快照 2019-10-09 下午4.46.31.png](https://pic.stackoverflow.wiki/uploadImages/b74d9a2c-7594-472b-87d6-66fdd45efd78.png)
 
-3. 第一行输入你的项目名，第二行输入你的用户名，点击 "I understant" 即可：
+3. 第一行输入你的项目名，第二行输入你的用户名，点击 "I understand" 即可：
 
 ![屏幕快照 2019-10-09 下午4.46.54.png](https://pic.stackoverflow.wiki/uploadImages/f419b7c3-692d-4763-923c-3a5cebf1a3fe.png)
