@@ -100,8 +100,8 @@
 |[@JonnieWayy](https://github.com/JonnieWayy)|[@IronmanJay](https://github.com/IronmanJay)|[@MuenYu](https://github.com/MuenYu)|[@FuShaoLei](https://github.com/FuShaoLei)|[@iHDJ](https://github.com/iHDJ)|
 |<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/12499004?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/54064860?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/41406557?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/15273630?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/6964737?v=4'>|
 |[@zhouqimark](https://github.com/zhouqimark)|[@gorgeousdays](https://github.com/gorgeousdays)|[@gakkiyomi](https://github.com/gakkiyomi)|[@Hunlongyu](https://github.com/Hunlongyu)|[@moonrailgun](https://github.com/moonrailgun)|
-|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/24709251?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/27860018?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/30976736?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/61620491?v=4'>|
-|[@sivanWu0222](https://github.com/sivanWu0222)|[@guo897654050](https://github.com/guo897654050)|[@wuufeii](https://github.com/wuufeii)|[@baijianruoliorz](https://github.com/baijianruoliorz)|
+|<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/24709251?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/27860018?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/30976736?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/61620491?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/73373215?v=4'>|
+|[@sivanWu0222](https://github.com/sivanWu0222)|[@guo897654050](https://github.com/guo897654050)|[@wuufeii](https://github.com/wuufeii)|[@baijianruoliorz](https://github.com/baijianruoliorz)|[@Axehco](https://github.com/Axehco)|
 
 ##### 如有遗漏，请提交至Issue :)
 
