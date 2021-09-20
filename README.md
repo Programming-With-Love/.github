@@ -102,8 +102,10 @@
 |[@zhouqimark](https://github.com/zhouqimark)|[@gorgeousdays](https://github.com/gorgeousdays)|[@gakkiyomi](https://github.com/gakkiyomi)|[@Hunlongyu](https://github.com/Hunlongyu)|[@moonrailgun](https://github.com/moonrailgun)|
 |<img height='48' width='48' src='https://avatars1.githubusercontent.com/u/24709251?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/27860018?v=4'>|<img height='48' width='48' src='https://avatars0.githubusercontent.com/u/30976736?v=4'>|<img height='48' width='48' src='https://avatars2.githubusercontent.com/u/61620491?v=4'>|<img height='48' width='48' src='https://avatars3.githubusercontent.com/u/73373215?v=4'>|
 |[@sivanWu0222](https://github.com/sivanWu0222)|[@guo897654050](https://github.com/guo897654050)|[@wuufeii](https://github.com/wuufeii)|[@baijianruoliorz](https://github.com/baijianruoliorz)|[@Axehco](https://github.com/Axehco)|
-|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/43029287?v=4'>|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/70094380?v=4'>|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/35248361?v=4'>|
-|[@yoyling](https://github.com/yoyling)|[@New-arkssac](https://github.com/New-arkssac)|[@weizujie](https://github.com/weizujie)|
+|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/43029287?v=4'>|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/70094380?v=4'>|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/35248361?v=4'>|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/9983906?v=4'>|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/14837868?v=4'>|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/65295250?v=4'>|
+|[@yoyling](https://github.com/yoyling)|[@New-arkssac](https://github.com/New-arkssac)|[@weizujie](https://github.com/weizujie)|[@chenlongqiang](https://github.com/chenlongqiang)|[@MIFind](https://github.com/MIFind)|[@YuZhangWang](https://github.com/YuZhangWang)|
+|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/53819558?v=4'>|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/11400329?v=4'>|<img height='48' width='48' src='https://avatars.githubusercontent.com/u/37008932?v=4'>|
+|[@lihe07](https://github.com/lihe07)|[@pfinal-nc](https://github.com/pfinal-nc)|[@CryBecase](https://github.com/CryBecase)|
 
 ##### 如有遗漏，请提交至Issue :)
 
