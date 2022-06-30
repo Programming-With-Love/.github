@@ -153,8 +153,8 @@
 
 :star: 如果你赞同并愿意严格遵守**为爱发电**组织的守则，欢迎你加入我们的组织：
 
-1. 请[先在这里注册一个账号](https://ld246.com/register?r=adlered)
-2. 然后[阅读申请贴并按要求操作](https://ld246.com/article/1570552518797?r=adlered)
+1. 请[先在这里注册一个账号](https://fishpi.cn/register?r=adlered)
+2. 然后[阅读申请贴并按要求操作](https://fishpi.cn/article/1656599435298)
 
 ## 关于分组
 
